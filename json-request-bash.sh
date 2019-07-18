@@ -12,7 +12,7 @@ JSON='{
   ],
   "substitutions":
   {
-    "_EXAMPLE_USER_VARIABLE": "'$_EXAMPLE_USER_VARIABLE"
+    "_EXAMPLE_USER_VARIABLE": "'$_EXAMPLE_USER_VARIABLE'"
   }
 }'
 
