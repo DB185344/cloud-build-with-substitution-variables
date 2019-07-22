@@ -1,5 +1,5 @@
 # Replace the PROJECT_ID text for your project ID 
-
+# Variables set in the substitutions parameter can be used as enviroment variables in the steps.
 JSON='{
   "steps":
   [
